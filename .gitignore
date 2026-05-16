@@ -12,11 +12,11 @@
 /captures
 .externalNativeBuild
 .cxx
-/google-services.json
 
 # App-specific build folders
 /app/build/
-google-services.json
+
+# Android Studio
 .idea/
 .gradle/
 build/
