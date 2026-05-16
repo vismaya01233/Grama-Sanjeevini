@@ -16,3 +16,8 @@
 
 # App-specific build folders
 /app/build/
+google-services.json
+.idea/
+.gradle/
+build/
+local.properties
